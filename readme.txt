@@ -7,5 +7,5 @@ This script reads a low-resolution video, upscales each frame using cubic
 interpolation (for better quality), and writes the upscaled frames 
 to a new video file.
 
-3. Desing & Architecture:
+3. Design & Architecture:
 
