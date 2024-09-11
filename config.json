@@ -1,0 +1,9 @@
+{
+    "input_video": "input/input_video.mp4",
+    "output_video": "output/final_output.mp4",
+    "target_resolution": [3840, 2160],
+    "log_dir": "./logs",
+    "interpolation_method": "INTER_CUBIC",
+    "output_folder": "./output"
+}
+  
